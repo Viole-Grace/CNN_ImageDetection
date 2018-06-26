@@ -1,4 +1,4 @@
-# ML_Supervised_Learning
+# ML Supervised Learning - CNN Image Classifier
 - This project uses Supervised Learning to make a Simple Image Classifier
 
 # Basics Used:
